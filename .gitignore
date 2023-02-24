@@ -1,0 +1,11 @@
+/analyticstracking.php
+/credential*.json
+/token*.json
+/web_Hook.url
+/config.php
+/composer.phar
+/*.xl*
+/*.seri
+vendor/
+backUps/
+.idea/
